@@ -1,0 +1,6 @@
+# ignore ALL .log and .bak files
+*.log
+*.bak
+
+# ignore ALL files in ANY directory named temp
+temp/
